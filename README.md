@@ -6,7 +6,9 @@ A complete Task Management API built using FastAPI, SQLModel, and Neon PostgreSQ
 
 ## 🎬 Demo Video
 
-[![Demo Video](https://img.shields.io/badge/Watch-Demo%20Video-red?style=for-the-badge&logo=youtube)](https://github.com/Razamirxa/Task-Management-API-Skills-Development)
+[![Demo Video](https://img.shields.io/badge/Watch-Demo%20Video-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=8rA2C0BIje0)
+
+▶️ **[Watch Demo on YouTube](https://www.youtube.com/watch?v=8rA2C0BIje0)**
 
 ## 🚀 Project Overview
 
